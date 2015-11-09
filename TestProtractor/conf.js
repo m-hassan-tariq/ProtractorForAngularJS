@@ -1,6 +1,3 @@
-﻿
-
-
 // An example configuration file. 
 exports.config = {
     // The address of a running selenium server. 
@@ -8,19 +5,19 @@ exports.config = {
     
     // Capabilities to be passed to the webdriver instance. 
 
-    capabilities: {
-        'browserName': 'chrome'
-    }, 
+    //capabilities: {
+    //    'browserName': 'chrome'
+    //}, 
     
-    //multiCapabilities: [{
-    //        'browserName': 'chrome'
-    //    }, {
-    //        'browserName': 'firefox'
-    //    }],
+    multiCapabilities: [{
+            'browserName': 'chrome'
+        }, {
+            'browserName': 'firefox'
+        }],
     
     // Spec patterns are relative to the current working directly when 
     // protractor is called. 
-    specs: ['customConfig.js', 'candidatePage.js'], 
+    specs: ['customConfig.js', 'menu.js', 'homePage.js' , 'candidatePage.js'], 
     
     // Options to be passed to Jasmine-node. 
     jasmineNodeOpts: {
