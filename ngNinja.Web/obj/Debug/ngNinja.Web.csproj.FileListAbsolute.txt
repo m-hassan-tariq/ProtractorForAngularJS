@@ -1,0 +1,234 @@
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ngNinja.Web.dll.config
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ngNinja.Web.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ngNinja.Web.pdb
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Antlr3.Runtime.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\EntityFramework.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\EntityFramework.SqlServer.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Microsoft.Data.Edm.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Microsoft.Data.OData.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Newtonsoft.Json.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ngNinja.Model.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Net.Http.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Net.Http.Formatting.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Net.Http.WebRequest.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Spatial.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Helpers.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Http.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Http.OData.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Http.Tracing.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Http.WebHost.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Mvc.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Optimization.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Providers.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Razor.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.WebPages.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Razor.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\WebGrease.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ngNinja.Model.pdb
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\EntityFramework.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\EntityFramework.SqlServer.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Newtonsoft.Json.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Net.Http.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Net.Http.Formatting.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Net.Http.WebRequest.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Helpers.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Http.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Http.WebHost.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Mvc.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Razor.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.WebPages.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Razor.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Http.Tracing.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Http.OData.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Microsoft.Data.Edm.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Microsoft.Data.OData.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Spatial.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\de\Microsoft.Data.OData.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\es\Microsoft.Data.OData.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\it\Microsoft.Data.OData.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\de\System.Spatial.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\es\System.Spatial.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\fr\System.Spatial.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\it\System.Spatial.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ja\System.Spatial.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ko\System.Spatial.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\ru\System.Spatial.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\zh-Hans\System.Spatial.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\zh-Hant\System.Spatial.resources.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\obj\Debug\ngNinja.Web.csprojResolveAssemblyReference.cache
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\obj\Debug\ngNinja.Web.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\obj\Debug\ngNinja.Web.pdb
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Web.Optimization.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\Antlr3.Runtime.pdb
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Web\bin\System.Web.Optimization.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ngNinja.Web.dll.config
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Antlr3.Runtime.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Microsoft.Data.OData.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Newtonsoft.Json.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Net.Http.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Spatial.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Helpers.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Http.OData.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Http.Tracing.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Mvc.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Providers.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Razor.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.WebPages.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\WebGrease.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Antlr3.Runtime.pdb
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Newtonsoft.Json.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Optimization.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Net.Http.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Helpers.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Mvc.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Razor.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.WebPages.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Http.Tracing.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Web.Http.OData.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\Microsoft.Data.OData.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\System.Spatial.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\de\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\es\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\it\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\obj\Debug\ngNinja.Web.csprojResolveAssemblyReference.cache
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\obj\Debug\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Web\obj\Debug\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ngNinja.Web.dll.config
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Antlr3.Runtime.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Microsoft.Data.OData.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Newtonsoft.Json.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Net.Http.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Spatial.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Helpers.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Http.OData.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Http.Tracing.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Mvc.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Providers.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Razor.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.WebPages.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\WebGrease.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Antlr3.Runtime.pdb
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Newtonsoft.Json.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Optimization.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Net.Http.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Helpers.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Mvc.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Razor.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.WebPages.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Http.Tracing.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Web.Http.OData.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\Microsoft.Data.OData.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\System.Spatial.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\de\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\es\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\it\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\obj\Debug\ngNinja.Web.csprojResolveAssemblyReference.cache
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\obj\Debug\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinjaV9.02\ngNinja\ngNinja.Web\obj\Debug\ngNinja.Web.pdb

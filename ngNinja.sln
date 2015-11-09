@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ngNinja.Model", "ngNinja.Model\ngNinja.Model.csproj", "{8DE18006-F191-48AD-8AC5-C0735BC940BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ngNinja.Web", "ngNinja.Web\ngNinja.Web.csproj", "{AB8CBFDE-40B3-481F-9729-365F09F92930}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TestProtractor", "TestProtractor\TestProtractor.njsproj", "{63FA91A2-6276-44CE-992C-3C5053EA7DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE18006-F191-48AD-8AC5-C0735BC940BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE18006-F191-48AD-8AC5-C0735BC940BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE18006-F191-48AD-8AC5-C0735BC940BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE18006-F191-48AD-8AC5-C0735BC940BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8CBFDE-40B3-481F-9729-365F09F92930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8CBFDE-40B3-481F-9729-365F09F92930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8CBFDE-40B3-481F-9729-365F09F92930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8CBFDE-40B3-481F-9729-365F09F92930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FA91A2-6276-44CE-992C-3C5053EA7DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FA91A2-6276-44CE-992C-3C5053EA7DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FA91A2-6276-44CE-992C-3C5053EA7DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FA91A2-6276-44CE-992C-3C5053EA7DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿<div>
+    <h2 class="page-title">Candidates</h2>
+
+    <div oc-lazy-load="vm.lazyLoadParams">
+        <div candidate-data-grid datasource="vm.candidates" showaction="true" canceledit="vm.cancelEdit" editcandidate="vm.edit" currentedit="vm.currentEdit" savecandidate="vm.save">
+            <table>
+                <tr>
+                    <td>
+                        <input type="text" class="form-control" placeholder="First Name" ng-model="vm.newCandidate.first_name" />
+                    </td>
+                    <td>
+                        <input type="text" class="form-control" placeholder="Middle Initial" ng-model="vm.newCandidate.middle_initial" />
+                    </td>
+                    <td>
+                        <input type="text" class="form-control" placeholder="Last Name" ng-model="vm.newCandidate.last_name" />
+                    </td>
+                    <td>
+                        <input type="text" valid-email class="form-control" placeholder="Email Address" ng-model="vm.newCandidate.email" />
+                    </td>
+                    <td>
+                        <input type="text" max-length-for-numbers class="form-control" placeholder="Expected Salary" ng-model="vm.newCandidate.expected_salary" />
+                    </td>
+                    <td>
+                        <button type="submit" class="btn btn-primary" ng-click="vm.add()"
+                                tooltip="Click here to add new candidate" tooltip-placement="left">
+                            <span class="glyphicon glyphicon-plus"></span> Add
+                        </button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>

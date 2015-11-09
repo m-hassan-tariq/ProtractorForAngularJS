@@ -1,0 +1,24 @@
+﻿<div data-ng-controller="ShellController">
+    <div id="adminNavBar" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" data-ng-init="navCollapsed = true" data-ng-click="navCollapsed = !navCollapsed" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">
+                    <i class="icon-home"></i>
+                    <span>Sample TAC Angular Utility</span>
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" data-ng-class="{'in': !navCollapsed}">
+                <ul class="nav navbar-nav">
+                    <li><a data-toggle="collapse" data-target=".navbar-collapse" ui-sref="adminHome">Home</a></li>
+                    <li><a data-toggle="collapse" data-target=".navbar-collapse" ui-sref="allCandidates">Users</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div data-ui-view></div>
+</div>

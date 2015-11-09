@@ -1,0 +1,10 @@
+{
+  "name": "TestProtractor",
+  "version": "0.0.0",
+  "description": "TestProtractor",
+  "main": "app.js",
+  "author": {
+    "name": "hassan.muhammad",
+    "email": ""
+  }
+}

@@ -1,0 +1,51 @@
+﻿ <table class="table table-bordered table-hover table-striped">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Middle Initial</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Expected Salary</th>
+            <th ng-show={{vm.showaction}}>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+    <ng-transclude></ng-transclude>
+        <tr>
+            <input class="" type="text" placeholder="search first name" ng-model="search.first_name">
+            <input class="" type="text" placeholder="search middle name" ng-model="search.middle_initial">
+            <input class="" type="text" placeholder="search last name" ng-model="search.last_name">
+            <input class="" type="text" placeholder="search email" ng-model="search.email">
+            <input class="" type="text" placeholder="search salary" ng-model="search.expected_salary">
+        </tr>
+        <tr ng-repeat="candidate in vm.candidates | orderBy: 'first_name' | filter: search">
+            <td>
+                <div ng-hide="vm.currentEdit[candidate.candidate_id]">{{candidate.first_name}}</div>
+                <div ng-show="vm.currentEdit[candidate.candidate_id]"><input type="text" class="form-control" ng-model="vm.itemToEdit.first_name" /></div>
+            </td>
+            <td>
+                <div ng-hide="vm.currentEdit[candidate.candidate_id]">{{candidate.middle_initial | uppercase}}</div>
+                <div ng-show="vm.currentEdit[candidate.candidate_id]"><input type="text" class="form-control" ng-model="vm.itemToEdit.middle_initial" /></div>
+            </td>
+            <td>
+                <div ng-hide="vm.currentEdit[candidate.candidate_id]">{{candidate.last_name}}</div>
+                <div ng-show="vm.currentEdit[candidate.candidate_id]"><input type="text" class="form-control" ng-model="vm.itemToEdit.last_name" /></div>
+            </td>
+            <td>
+                <div ng-hide="vm.currentEdit[candidate.candidate_id]">{{candidate.email}}</div>
+                <div ng-show="vm.currentEdit[candidate.candidate_id]"><input type="text" class="form-control" ng-model="vm.itemToEdit.email" /></div>
+            </td>
+            <td>
+                <div ng-hide="vm.currentEdit[candidate.candidate_id]">{{candidate.expected_salary | currency}}</div>
+                <div ng-show="vm.currentEdit[candidate.candidate_id]"><input type="text" class="form-control" ng-model="vm.itemToEdit.expected_salary" /></div>
+            </td>
+            <td ng-show={{vm.showaction}}>
+                <button class="btn btn-sm btn-info" ng-hide="vm.currentEdit[candidate.candidate_id]" ng-click="vm.edit(candidate)">Edit</button>
+                <button class="btn btn-sm btn-danger" ng-hide="vm.currentEdit[candidate.candidate_id]" ng-click="vm.delete(candidate.candidate_id)">Delete</button>
+
+                <button class="btn btn-sm btn-success" ng-show="vm.currentEdit[candidate.candidate_id]" ng-click="vm.save(candidate)">Save</button>
+                <button class="btn btn-sm btn-danger" ng-show="vm.currentEdit[candidate.candidate_id]" ng-click="vm.cancelEdit(candidate.candidate_id)">Cancel</button>
+            </td>
+        </tr>
+</table>
+

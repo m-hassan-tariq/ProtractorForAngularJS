@@ -1,0 +1,66 @@
+﻿@{
+    Layout = null;
+}
+
+<!doctype html>
+<html class="no-js" ng-app="onBoardingApp">
+<head>
+    <meta charset="utf-8">
+    <title>TAC Sample Angular Utility</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    @Styles.Render("~/Content/bootstrap/css/bootstrap.paper.min.css")
+    @Styles.Render("~/Content/Main.css")
+
+    @*@Scripts.Render("~/Angular")
+        @Scripts.Render("~/AngularApp")*@
+
+    <script src="/Scripts/lib/angular/angular.js"></script>
+    <script src="/Scripts/lib/angular-ui-router/angular-ui-router.js"></script>
+    <script src="/Scripts/lib/angular-resource/angular-resource.js"></script>
+    <script src="/Scripts/lib/angular-ui/ui-bootstrap-tpls.js"></script>
+    <script src="/Scripts/lib/oc-lazy-load/ocLazyLoad.js"></script>
+    <script src="~/Scripts/lib/loadash/lodash.min.js"></script>
+    @*<script src="~/Scripts/lib/breeze/breeze.debug.js"></script>
+        <script src="~/Scripts/lib/breeze/breeze.bridge.angular.js"></script>*@
+
+    <script src="/Scripts/app/modules/home/onBoardingApp.home.js"></script>
+    <script src="/Scripts/app/modules/home/js/onBoardingApp.home.controllers.js"></script>
+    <script src="/Scripts/app/modules/home/js/onBoardingApp.home.services.js"></script>
+    <script src="/Scripts/app/modules/layout/onBoardingApp.layout.js"></script>
+    <script src="/Scripts/app/modules/layout/js/controllers.js"></script>
+    <script src="/Scripts/app/appModule.js"></script>
+    <script src="/Scripts/app/appConfig.js"></script>
+    <script src="/Scripts/app/shared/services/webApiService.js"></script>
+
+
+
+
+    @*<script src="/Scripts/appTS/modules/home/onBoardingApp.home.js"></script>
+        <script src="/Scripts/appTS/modules/home/js/onBoardingApp.home.controllers.js"></script>
+        <script src="/Scripts/appTS/modules/home/js/onBoardingApp.home.services.js"></script>
+        <script src="~/Scripts/appTS/modules/layout/onBoardingApp.layout.js"></script>
+        <script src="~/Scripts/appTS/modules/layout/js/controllers.js"></script>
+        <script src="~/Scripts/appTS/appModule.js"></script>
+        <script src="~/Scripts/appTS/appRun.js"></script>
+        <script src="~/Scripts/appTS/appConfig.js"></script>
+        <script src="/Scripts/appTS/shared/services/webApiService.js"></script>*@
+
+</head>
+<body>
+
+    <div id="applicationHost" class="container body-content admin-appHost">
+        <div data-ng-include="'/Scripts/app/modules/layout/views/shell.html'"></div>
+        @*<div data-ng-include="'/Scripts/appTS/modules/layout/views/shell.html'"></div>*@
+    </div>
+
+    <div id="footer">
+        <div class="container">
+            <span class="pull-right text-info credit">Test Utility - Job Corps</span>
+        </div>
+    </div>
+
+</body>
+</html>
+

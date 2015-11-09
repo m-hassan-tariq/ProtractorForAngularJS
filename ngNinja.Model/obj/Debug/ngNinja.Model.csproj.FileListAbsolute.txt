@@ -1,0 +1,18 @@
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Model\bin\Debug\ngNinja.Model.dll.config
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Model\bin\Debug\ngNinja.Model.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Model\bin\Debug\ngNinja.Model.pdb
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Model\bin\Debug\EntityFramework.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Model\bin\Debug\EntityFramework.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Model\obj\Debug\ngNinja.Model.dll
+D:\Copy\LEARNING\Practice Work\ngNinja\ngNinja.Model\obj\Debug\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Model\bin\Debug\ngNinja.Model.dll.config
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Model\bin\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Model\bin\Debug\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Model\bin\Debug\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Model\bin\Debug\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Model\obj\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\My sample proj\ngNinja\ngNinja\ngNinja.Model\obj\Debug\ngNinja.Model.pdb
