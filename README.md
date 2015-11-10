@@ -382,6 +382,4 @@ Protractor Cheatsheet
     
     https://www.youtube.com/watch?v=rX9eeg4mNBo
 
-———————————————————————————————————————————————————————————————
-
     Happy Coding.
