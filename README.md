@@ -63,6 +63,7 @@ https://hassantariqblog.wordpress.com/2015/11/09/execute-protractor-test-in-para
 ###Step 3: Build Project and get URL of project
 
 Press CTRL + F5 and note down localhost URL for your application.
+
 For Example: http://localhost:3472/#/
 
 ![2015-11-06_17-47-54](https://cloud.githubusercontent.com/assets/10474169/11067186/01e8bd9e-8791-11e5-9275-72921bb79a2b.png)
@@ -73,7 +74,7 @@ Protractor API: http://angular.github.io/protractor/#/api
 
 Note: Most commands return promises, so you only resolve their values through using jasmine expect API or using .then(function()) structure.
 
-- Protractor Cheatsheet
+###Protractor Cheatsheet
 
 ####Control browser
 
@@ -388,3 +389,4 @@ Video of protractor executing these tests is below:
 https://www.youtube.com/watch?v=rX9eeg4mNBo
 
 Happy Coding.
+Hassan
