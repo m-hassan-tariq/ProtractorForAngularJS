@@ -6,6 +6,8 @@ Protractor is an end-to-end test framework for AngularJS applications. Protracto
 Follow step 1 to step 8 to integrate protractor in your visual studio project from my previous post:
 
 Installation and Setup Protractor in Visual Studio
+
+
 https://hassantariqblog.wordpress.com/2015/11/06/installing-and-using-protractor-for-angularjs-application-in-visual-studio/
 
 ###Step 1: Setup Node.js Console Application
