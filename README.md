@@ -24,33 +24,33 @@ Search for Nodejs console application template and name it
 
 For sample just add below code in file named as ‘conf.js’
 
-  // An example configuration file. 
-  exports.config = {
-      // The address of a running selenium server. 
-      seleniumAddress: 'http://localhost:4444/wd/hub', 
-      
-      // Capabilities to be passed to the webdriver instance. 
-   
-      //capabilities: {
-      //    'browserName': 'chrome'
-      //}, 
-      
-      multiCapabilities: [{
-              'browserName': 'chrome'
-          }, {
-              'browserName': 'firefox'
-          }],
-      
-      // Spec patterns are relative to the current working directly when 
-      // protractor is called. 
-      specs: ['customConfig.js', 'menu.js', 'homePage.js' , 'candidatePage.js'], 
-      
-      // Options to be passed to Jasmine-node. 
-      jasmineNodeOpts: {
-          showColors: true, 
-          defaultTimeoutInterval: 30000
-      }
-  };
+      // An example configuration file. 
+      exports.config = {
+          // The address of a running selenium server. 
+          seleniumAddress: 'http://localhost:4444/wd/hub', 
+          
+          // Capabilities to be passed to the webdriver instance. 
+       
+          //capabilities: {
+          //    'browserName': 'chrome'
+          //}, 
+          
+          multiCapabilities: [{
+                  'browserName': 'chrome'
+              }, {
+                  'browserName': 'firefox'
+              }],
+          
+          // Spec patterns are relative to the current working directly when 
+          // protractor is called. 
+          specs: ['customConfig.js', 'menu.js', 'homePage.js' , 'candidatePage.js'], 
+          
+          // Options to be passed to Jasmine-node. 
+          jasmineNodeOpts: {
+              showColors: true, 
+              defaultTimeoutInterval: 30000
+          }
+      };
 
 ![2015-11-09_17-36-40](https://cloud.githubusercontent.com/assets/10474169/11066511/25e92808-878e-11e5-9672-ef76f8bfa5c1.png)
 
