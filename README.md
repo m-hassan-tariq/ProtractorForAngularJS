@@ -22,7 +22,7 @@ Search for Nodejs console application template and name it
 
 ###Step 2: Add conf.js file for protractor configuration
 
-    For sample just add below code in file named as ‘conf.js’
+For sample just add below code in file named as ‘conf.js’
 
   // An example configuration file. 
   exports.config = {
@@ -52,28 +52,30 @@ Search for Nodejs console application template and name it
       }
   };
 
-    ![2015-11-09_17-36-40](https://cloud.githubusercontent.com/assets/10474169/11066511/25e92808-878e-11e5-9672-ef76f8bfa5c1.png)
+![2015-11-09_17-36-40](https://cloud.githubusercontent.com/assets/10474169/11066511/25e92808-878e-11e5-9672-ef76f8bfa5c1.png)
 
 Please Note:
 
 using multiCapabilities will run all the tests in each of the browsers
+
 https://hassantariqblog.wordpress.com/2015/11/09/execute-protractor-test-in-parallel-on-different-browser/
 
 ###Step 3: Build Project and get URL of project
 
-    Press CTRL + F5 and note down localhost URL for your application.
-    For Example: http://localhost:3472/#/
-    
-    ![2015-11-06_17-47-54](https://cloud.githubusercontent.com/assets/10474169/11067186/01e8bd9e-8791-11e5-9275-72921bb79a2b.png)
+Press CTRL + F5 and note down localhost URL for your application.
+For Example: http://localhost:3472/#/
+
+![2015-11-06_17-47-54](https://cloud.githubusercontent.com/assets/10474169/11067186/01e8bd9e-8791-11e5-9275-72921bb79a2b.png)
 
 ###Step 4: Syntax Understanding
 
 Protractor API: http://angular.github.io/protractor/#/api
 
 Note: Most commands return promises, so you only resolve their values through using jasmine expect API or using .then(function()) structure.
-Protractor Cheatsheet
 
-    ####Control browser
+- Protractor Cheatsheet
+
+####Control browser
 
     browser.get('yoururl// Load address, can also use '#yourpage'
     browser.navigate().back();
@@ -84,13 +86,13 @@ Protractor Cheatsheet
     browser.waitForAngular(); // if your test is outrunning the browser
     browser.getLocationAbsUrl() // get the current address
 
-    ####Check Visibility
+####Check Visibility
 
     element(by.id('create')).isPresent();
     element(by.id('create')).isEnabled();
     element(by.id('create')).isDisplayed();
 
-    ####Find an element by id, model, binding
+####Find an element by id, model, binding
 
     element(by.id('user_name');
     element(by.css('#myItem');
@@ -108,7 +110,7 @@ Protractor Cheatsheet
     var dog = element(by.cssContainingText('.pet', 'Dog'));
     var allOptions = element.all(by.options('c c in colors'));
 
-    ####Find collection of elements by css, repeater, xpath..
+####Find collection of elements by css, repeater, xpath..
 
     var list = element.all(by.css('.items'));
     var list2 = element.all(by.repeater('personhome.results'));
@@ -128,10 +130,11 @@ Protractor Cheatsheet
      var height = size.height;
     });
 
-    For more detail, check out this cheat sheet
-    https://github.com/sillsdev/web-languageforge/blob/master/test/app/chris's%20protractor%20api%20cheatsheet.md
-    
-    ####Protractor Concepts
+For more detail, check out this cheat sheet
+
+https://github.com/sillsdev/web-languageforge/blob/master/test/app/chris's%20protractor%20api%20cheatsheet.md
+
+####Protractor Concepts
 
     describe("A suite is just a function", function() {
       var a;
@@ -141,26 +144,26 @@ Protractor Cheatsheet
       });
     });
 
-    - describe Your TestsA test suite begins with a call to the global Protractor function describe with two parameters: a string and a function. The string is a name or title for a spec suite – usually what is being tested. The function is a block of code that implements the suite.
-      SpecsSpecs are defined by calling the global Protractor function it, which, like describe takes a string and a function. The string is the title of the spec and the function is the spec, or test. A spec contains one or more expectations that test the state of the code. An expectation in Protractor is an assertion that is either true or false. A spec with all true expectations is a passing spec. A spec with one or more false expectations is a failing spec.
+- describe Your TestsA test suite begins with a call to the global Protractor function describe with two parameters: a string and a function. The string is a name or title for a spec suite – usually what is being tested. The function is a block of code that implements the suite.
+  SpecsSpecs are defined by calling the global Protractor function it, which, like describe takes a string and a function. The string is the title of the spec and the function is the spec, or test. A spec contains one or more expectations that test the state of the code. An expectation in Protractor is an assertion that is either true or false. A spec with all true expectations is a passing spec. A spec with one or more false expectations is a failing spec.
 
-    - It’s Just FunctionsSince describe and it blocks are functions, they can contain any executable code necessary to implement the test. JavaScript scoping rules apply, so variables declared in a describe are available to any it block inside the suite.
+- It’s Just FunctionsSince describe and it blocks are functions, they can contain any executable code necessary to implement the test. JavaScript scoping rules apply, so variables declared in a describe are available to any it block inside the suite.
 
-    - ExpectationsExpectations are built with the function expect which takes a value, called the actual. It is chained with a Matcher function, which takes the expected value.
+- ExpectationsExpectations are built with the function expect which takes a value, called the actual. It is chained with a Matcher function, which takes the expected value.
 
-    - MatchersEach matcher implements a boolean comparison between the actual value and the expected value. It is responsible for reporting to Protractor if the expectation is true or false. Protractor will then pass or fail the spec.Any matcher can evaluate to a negative assertion by chaining the call to expect with a not before calling the matcher.
+- MatchersEach matcher implements a boolean comparison between the actual value and the expected value. It is responsible for reporting to Protractor if the expectation is true or false. Protractor will then pass or fail the spec.Any matcher can evaluate to a negative assertion by chaining the call to expect with a not before calling the matcher.
 
-    - Setup and TeardownTo help a test suite DRY up any duplicated setup and teardown code, Protractor provides the global beforeEach and afterEach functions. As the name implies, the beforeEach function is called once before each spec in the describe in which it is called, and the afterEach function is called once after each spec. Here is the same set of specs written a little differently. The variable under test is defined at the top-level scope — the describe block — and initialization code is moved into a beforeEach function. The afterEach function resets the variable before continuing.
+- Setup and TeardownTo help a test suite DRY up any duplicated setup and teardown code, Protractor provides the global beforeEach and afterEach functions. As the name implies, the beforeEach function is called once before each spec in the describe in which it is called, and the afterEach function is called once after each spec. Here is the same set of specs written a little differently. The variable under test is defined at the top-level scope — the describe block — and initialization code is moved into a beforeEach function. The afterEach function resets the variable before continuing.
 
-    - waitForAngular()
-      Instruct webdriver to wait until Angular has finished rendering and has no outstanding $http or $timeout calls before continuing. Note that Protractor automatically applies this command before every WebDriver action.
+- waitForAngular()
+  Instruct webdriver to wait until Angular has finished rendering and has no outstanding $http or $timeout calls before continuing. Note that Protractor automatically applies this command before every WebDriver action.
 
-    - sendKeys()
-      Schedules a command to type/update a value on the DOM element represented by this instance. I know its bit hard to understand, here is the simple one: “Send one or more keystrokes to the active window as if they were typed at the keyboard”. For example in order to enter value of any text input, we use sendKeys() function.
+- sendKeys()
+  Schedules a command to type/update a value on the DOM element represented by this instance. I know its bit hard to understand, here is the simple one: “Send one or more keystrokes to the active window as if they were typed at the keyboard”. For example in order to enter value of any text input, we use sendKeys() function.
 
 ###Step 5a: Add first test spec file for e2e testing
 
-    For sample just add below code in file named as ‘menu.js’
+For sample just add below code in file named as ‘menu.js’
 
     describe('menu check', function () {
         beforeEach(function () {
@@ -179,25 +182,25 @@ Protractor Cheatsheet
         });
     });
 
-    ![2015-11-09_17-39-38](https://cloud.githubusercontent.com/assets/10474169/11067306/8a6403fe-8791-11e5-8714-6842e742f205.png)
+![2015-11-09_17-39-38](https://cloud.githubusercontent.com/assets/10474169/11067306/8a6403fe-8791-11e5-8714-6842e742f205.png)
 
-    Tests in this file will click on menu item and confirm their updated URL matches with test case expected values i.e. Home and Users
+Tests in this file will click on menu item and confirm their updated URL matches with test case expected values i.e. Home and Users
 
-    ![2015-11-09_17-43-09](https://cloud.githubusercontent.com/assets/10474169/11067341/a857ead8-8791-11e5-8c17-0f74709d54e6.png)
+![2015-11-09_17-43-09](https://cloud.githubusercontent.com/assets/10474169/11067341/a857ead8-8791-11e5-8c17-0f74709d54e6.png)
 
-    Copy URL from step 3 to browser.get statement in menu.js file
-    Name of file should be similar to what you have defined in conf.js under specs node
+Copy URL from step 3 to browser.get statement in menu.js file
+Name of file should be similar to what you have defined in conf.js under specs node
 
-      // An example configuration file. 
-      exports.config = {
-          // Spec patterns are relative to the current working directly when 
-          // protractor is called. 
-          specs: ['menu.js'], 
-      };
+    // An example configuration file. 
+    exports.config = {
+      // Spec patterns are relative to the current working directly when 
+      // protractor is called. 
+      specs: ['menu.js'], 
+    };
 
 ###Step 5b: Add Second test spec file for e2e testing
 
-    For sample just add below code in file named as ‘homePage.js’
+For sample just add below code in file named as ‘homePage.js’
 
     describe('Testing Homepage', function () {  
         beforeEach(function () {
@@ -232,13 +235,13 @@ Protractor Cheatsheet
         });
     });
 
-    ![2015-11-09_18-22-49](https://cloud.githubusercontent.com/assets/10474169/11067340/a857d5ac-8791-11e5-8829-c832bd0f6400.png)
+![2015-11-09_18-22-49](https://cloud.githubusercontent.com/assets/10474169/11067340/a857d5ac-8791-11e5-8829-c832bd0f6400.png)
 
-    Tests in this file will check page title, page header, url, click on href link and count of search result as highlight in image below
+Tests in this file will check page title, page header, url, click on href link and count of search result as highlight in image below
 
-    ![2015-11-09_18-25-19](https://cloud.githubusercontent.com/assets/10474169/11067339/a84ebdaa-8791-11e5-97d8-e49830e17c8f.png)
+![2015-11-09_18-25-19](https://cloud.githubusercontent.com/assets/10474169/11067339/a84ebdaa-8791-11e5-97d8-e49830e17c8f.png)
 
-    Name of file should be similar to what you have defined in conf.js under specs node
+Name of file should be similar to what you have defined in conf.js under specs node
 
     // An example configuration file. 
     exports.config = {
@@ -249,7 +252,7 @@ Protractor Cheatsheet
 
 ###Step 5c: Add Second test spec file for e2e testing
 
-    For sample just add below code in file named as ‘candidatePage.js’
+For sample just add below code in file named as ‘candidatePage.js’
 
     describe('Testing Candidate Page', function () {
         
@@ -314,21 +317,21 @@ Protractor Cheatsheet
      
     });
 
-    ![2015-11-09_18-31-45](https://cloud.githubusercontent.com/assets/10474169/11067337/a84d86e2-8791-11e5-83f3-71651fdbde96.png)
+![2015-11-09_18-31-45](https://cloud.githubusercontent.com/assets/10474169/11067337/a84d86e2-8791-11e5-83f3-71651fdbde96.png)
 
-    Tests in this file will add candidate record in grid as highlight in image below
+Tests in this file will add candidate record in grid as highlight in image below
 
-    ![2015-11-09_18-37-33](https://cloud.githubusercontent.com/assets/10474169/11067338/a84e5522-8791-11e5-9245-5fe2f24ba5bc.png)
+![2015-11-09_18-37-33](https://cloud.githubusercontent.com/assets/10474169/11067338/a84e5522-8791-11e5-9245-5fe2f24ba5bc.png)
 
-    Tests in this file will check invalidate email value during adding record as highlight in image below
+Tests in this file will check invalidate email value during adding record as highlight in image below
 
-    ![2015-11-09_18-39-57](https://cloud.githubusercontent.com/assets/10474169/11067335/a84b4c2e-8791-11e5-95e4-badb9948ed90.png)
+![2015-11-09_18-39-57](https://cloud.githubusercontent.com/assets/10474169/11067335/a84b4c2e-8791-11e5-95e4-badb9948ed90.png)
 
-    Tests in this file will edit first candidate record in grid as highlight in image below
+Tests in this file will edit first candidate record in grid as highlight in image below
 
-    ![2015-11-09_18-41-13](https://cloud.githubusercontent.com/assets/10474169/11067336/a84cb280-8791-11e5-9798-e245ca63bf8e.png)
+![2015-11-09_18-41-13](https://cloud.githubusercontent.com/assets/10474169/11067336/a84cb280-8791-11e5-9798-e245ca63bf8e.png)
 
-    Name of file should be similar to what you have defined in conf.js under specs node
+Name of file should be similar to what you have defined in conf.js under specs node
 
     // An example configuration file. 
     exports.config = {
@@ -339,9 +342,9 @@ Protractor Cheatsheet
 
 ###Step 6(optional): Reduce Speed of Protractor Tests
 
-  You may witness quick execution of these tests, browser will be quickly invoked and these test will be run in flash of seconds. In order to reduce speed follow below steps:
+You may witness quick execution of these tests, browser will be quickly invoked and these test will be run in flash of seconds. In order to reduce speed follow below steps:
 
-    For sample just add below code in file named as ‘customConfig.js’
+For sample just add below code in file named as ‘customConfig.js’
 
     var origFn = browser.driver.controlFlow().execute;
     
@@ -356,9 +359,9 @@ Protractor Cheatsheet
         return origFn.apply(browser.driver.controlFlow(), args);
     };
 
-    ![2015-11-09_12-37-48](https://cloud.githubusercontent.com/assets/10474169/11067449/33389468-8792-11e5-9639-1aaf3404093f.png)
+![2015-11-09_12-37-48](https://cloud.githubusercontent.com/assets/10474169/11067449/33389468-8792-11e5-9639-1aaf3404093f.png)
 
-    Name of file should be similar to what you have defined in conf.js under specs node
+Name of file should be similar to what you have defined in conf.js under specs node
 
     // An example configuration file. 
     exports.config = {
@@ -369,19 +372,19 @@ Protractor Cheatsheet
 
 ###Step 7: Run Test Specs
 
-    Right click on project and choose Open Command prompt here (we can do this in CMD too, but for a moment lets stick to VS environment)
-    run protractor for example_spec file, execute the below command
+Right click on project and choose Open Command prompt here (we can do this in CMD too, but for a moment lets stick to VS environment)
+run protractor for example_spec file, execute the below command
 
     protractor conf.js
 
-    ![2015-11-06_17-59-10](https://cloud.githubusercontent.com/assets/10474169/11067495/68aa3b42-8792-11e5-90c1-ce00a75a54ca.png)
+![2015-11-06_17-59-10](https://cloud.githubusercontent.com/assets/10474169/11067495/68aa3b42-8792-11e5-90c1-ce00a75a54ca.png)
 
-    Chrome and Firefox Browser behind CMD is opened by selenium web driver and execute our test and output is generated in CMD as below:
+Chrome and Firefox Browser behind CMD is opened by selenium web driver and execute our test and output is generated in CMD as below:
 
-    ![2015-11-09_18-51-34](https://cloud.githubusercontent.com/assets/10474169/11067334/a84af31e-8791-11e5-88d3-1446e3232cf1.png)
+![2015-11-09_18-51-34](https://cloud.githubusercontent.com/assets/10474169/11067334/a84af31e-8791-11e5-88d3-1446e3232cf1.png)
 
-    Video of protractor executing these tests is below:
-    
-    https://www.youtube.com/watch?v=rX9eeg4mNBo
+Video of protractor executing these tests is below:
 
-    Happy Coding.
+https://www.youtube.com/watch?v=rX9eeg4mNBo
+
+Happy Coding.
