@@ -12,13 +12,13 @@ https://hassantariqblog.wordpress.com/2015/11/06/installing-and-using-protractor
 
 ###Step 1: Setup Node.js Console Application
 
-    Add New Project in main solution file
+Add New Project in main solution file
 
-    ![2015-11-06_17-11-22](https://cloud.githubusercontent.com/assets/10474169/11066429/c5f8c3e0-878d-11e5-9044-ed3959195fc8.png)
+![2015-11-06_17-11-22](https://cloud.githubusercontent.com/assets/10474169/11066429/c5f8c3e0-878d-11e5-9044-ed3959195fc8.png)
 
-    Search for Nodejs console application template and name it
+Search for Nodejs console application template and name it
     
-    ![2015-11-06_17-13-45](https://cloud.githubusercontent.com/assets/10474169/11066444/dac77938-878d-11e5-8e49-26c575188b63.png)
+![2015-11-06_17-13-45](https://cloud.githubusercontent.com/assets/10474169/11066444/dac77938-878d-11e5-8e49-26c575188b63.png)
 
 ###Step 2: Add conf.js file for protractor configuration
 
