@@ -1,5 +1,5 @@
 # Protractor For AngularJS E2E Testing
-Using Protractor for E2E testing of AngularJS application in Visual Studio 
+Using Protractor for E2E testing of AngularJS application in Visual Studio.
 
 Protractor is an end-to-end test framework for AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.Integrating Protractor for AngualrJS application in Visual Studio needs some configuration.
 
